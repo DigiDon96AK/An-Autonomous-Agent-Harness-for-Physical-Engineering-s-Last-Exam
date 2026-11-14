@@ -2,6 +2,7 @@
 
 **Team / Author:** DigiDon96AK  
 **Repository:** [GitHub Repository](https://github.com/DigiDon96AK/An-Autonomous-Agent-Harness-for-Physical-Engineering-s-Last-Exam)  
+**Submission Commit SHA:** `5c709dfb671d3211c68e52c8063d3a1fd7611ff2`  
 **Competition:** [Google - Agent Harness on Physical-Engineering's Last Exam (PLE)](https://www.kaggle.com/competitions/physical-engineerings-last-exam/overview)  
 **Model Declaration:** `google-cloud/gemini-3.8-flash` (with Vertex AI / Model Proxy)  
 **Target Benchmark:** Physical-Engineering's Last Exam (85 Tasks: Structural, Civil, Electrical, Mechanical)
